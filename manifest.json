@@ -37,8 +37,8 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
+      "checksum": "8523C099E7D5C88D91E4C04FFDC1F6961CF3B5553B4B308032D0405FA46895D5",
+      "size": 1186
     },
     "sidebar.ftd": {
       "name": "sidebar.ftd",
@@ -52,5 +52,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/sarvom/mypage/zip/refs/heads/main",
-  "checksum": "B893620F22A7FC808C1D7C9382F0043E018D82DEC112270125B8087C7294B345"
+  "checksum": "638CD9D3E7C0E9168C6D2B9F71569D3F3BA6676AD725159CFE93EE3539974308"
 }
